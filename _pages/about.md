@@ -12,21 +12,27 @@ I am an Assistant Professor in the School of Computer and Cyber Sciences at Augu
 
 ## Research
 
-I work on the theoretical foundations of AI, aiming to design scalable and reliable learning algorithms for nonstationary, distributed, and adversarial environments.
+My research focuses on the theoretical foundations of artificial intelligence with emphasis on scalable and reliable learning algorithms operating in nonstationary, distributed, and adversarial environments. A central objective is to develop methods that remain statistically efficient, computationally feasible, and robust under uncertainty, which motivates several interconnected research directions listed below.
 
-- **Generative AI & Diffusion Models.** I study score-based diffusion, normalizing flows, and energy-based models, with theory for sample efficiency, stability, and control of memorization, as well as principled estimators via score matching.
+* **Reinforcement Learning.** I analyze and design reinforcement learning algorithms under delayed, partial, or adversarial updates and derive non-asymptotic reliability guarantees for distributed systems.
 
-- **Multimodal Machine Learning.** I develop representation learning and fusion methods for heterogeneous data (vision, audio, text, and time series), with guarantees for alignment, robustness, and sequential decision-making across modalities.
+* **Distributed Learning.** I develop communication- and computation-efficient methods for large-scale collaborative learning under heterogeneous delays, partial participation, and Byzantine failures.
 
-- **Reinforcement Learning (federated & asynchronous).** I analyze and design RL algorithms under delayed, partial, or adversarial updates, providing non-asymptotic guarantees for reliability in distributed systems.
+* **Minimax Optimization.** I study convex and nonconvex minimax problems and construct algorithms with provable convergence guarantees in adversarial, asynchronous, and resource-constrained settings.
 
-- **Distributed Learning & Minimax Optimization.** I build communication- and computation-efficient methods for convex and nonconvex minimax problems, including robustness to delays and Byzantine agents.
+* **Change Detection under Uncertainty.** I develop sequential detection methods for high-dimensional and unnormalized distributions, including energy-based models, that adapt to nonstationarity with quantifiable false-alarm and detection-delay guarantees.
 
-- **Change Detection under Uncertainty.** I develop detectors for high-dimensional and unnormalized distributions (e.g., energy-based models) that adapt to nonstationarity with provable false-alarm and detection-delay guarantees.
+* **Submodular Optimization.** I design scalable algorithms for discrete decision-making under uncertainty with provable near-optimality based on submodular structure.
 
-- **Submodular Optimization & Meta-Learning.** I create scalable algorithms for discrete decision-making and adaptive meta-learning, enabling near-optimal performance in large-scale, uncertain settings.
+* **Meta-Learning.** I study adaptive learning procedures that transfer knowledge across related tasks, enabling sample-efficient generalization and reliable performance in nonstationary environments.
 
-- **Adversarial Robustness & Decision-Making under Uncertainty.** I study principled risk measures and worst-case analyses to ensure dependable behavior under distribution shift and adversarial perturbations.
+* **Decision-Making under Uncertainty.** I examine principled risk measures, distributionally robust optimization, and worst-case formulations to ensure dependable performance in safety-critical and shift-sensitive settings.
+
+* **Robustness of Deep Learning.** I investigate the statistical and algorithmic foundations of deep models subject to perturbations, memorization, and distribution shift, aiming for guarantees on generalization, stability, and reliability in high-dimensional regimes.
+
+* **Generative AI and Diffusion Models.** I study score-based diffusion processes, normalizing flows, and energy-based models with theory for sample efficiency, stability, and control of memorization, together with statistically grounded estimators based on score matching.
+
+* **Multimodal Machine Learning.** I develop representation learning and modality fusion methods for heterogeneous data including vision, audio, text, and temporal signals, with guarantees for alignment, robustness, and sequential decision-making across modalities.
 
 ## <span style="color:red">Open Positions</span>
 
