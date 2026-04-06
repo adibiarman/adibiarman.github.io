@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the School of Computer and Cyber Sciences at Augusta University. Previously, I was a postdoctoral researcher in Electrical and Computer Engineering at Princeton University, working with [Prof. H. Vincent Poor](https://ece.princeton.edu/people/h-vincent-poor) and [Prof. Sanjeev Kulkarni](https://ece.princeton.edu/people/sanjeev-r-kulkarni); I also collaborated with [Prof. Vahid Tarokh](https://people.duke.edu/~vt45/) (Duke) and [Prof. Taposh Banerjee](https://sites.google.com/view/taposhbanerjee/home) (University of Pittsburgh). I earned my Ph.D. in Electrical and Systems Engineering from the University of Pennsylvania under [Prof. Hamed Hassani](https://www.seas.upenn.edu/~hassani/) and worked closely with [Prof. George J. Pappas](https://www.georgejpappas.org/), [Prof. Aritra Mitra](https://amitra2.wordpress.ncsu.edu/) (NC State), and [Prof. Aryan Mokhtari](https://sites.utexas.edu/mokhtari/) (UT Austin).
+I am an Assistant Professor in the School of Computer and Cyber Sciences at Augusta University. Previously, I was a postdoctoral researcher in Electrical and Computer Engineering at Princeton University, working with [Prof. H. Vincent Poor](https://ece.princeton.edu/people/h-vincent-poor) and [Prof. Sanjeev Kulkarni](https://ece.princeton.edu/people/sanjeev-r-kulkarni). I earned my Ph.D. in Electrical and Systems Engineering from the University of Pennsylvania under [Prof. Hamed Hassani](https://www.seas.upenn.edu/~hassani/).
 
 ## Research
 
