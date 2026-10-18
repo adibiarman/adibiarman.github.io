@@ -12,21 +12,21 @@ I am an [Assistant Professor](https://www.augusta.edu/faculty/directory/view.php
 
 ## Research
 
-My research combines machine learning, optimization, and statistical inference to study learning and decision-making under uncertainty. I develop algorithms and analyze their sample complexity, convergence rates, and computational costs, with particular emphasis on dependent data, delayed information, distribution changes, and adversarial agents.
+My research interests lie at the intersection of machine learning, optimization, and statistical inference. I am broadly interested in the mathematical foundations of learning and decision-making, with an emphasis on the following areas:
 
-- **Reinforcement learning and distributed learning.** I study [stochastic approximation](https://proceedings.mlr.press/v238/adibi24a.html), multi-agent and federated reinforcement learning, and meta-learning. I analyze how Markovian data, delayed updates, communication constraints, and adversarial agents affect convergence and statistical efficiency.
+- **Machine learning and artificial intelligence.** Foundations of learning, generalization, adaptation, and generative modeling.
 
-- **Minimax and submodular optimization.** I develop algorithms for problems that combine continuous optimization, discrete decisions, and competing objectives. I study convergence and approximation guarantees for [minimax and submodular optimization](https://proceedings.mlr.press/v151/adibi22a.html), including settings with delays or adversarial data.
+- **Optimization and game theory.** Algorithms and theory for continuous, discrete, and adversarial optimization.
 
-- **Sequential inference and quickest change detection.** I design sequential detectors for distribution changes when likelihoods or normalizing constants are unavailable. Recent work uses [diffusion-integrated scores](https://arxiv.org/abs/2610.12200) and [mixtures of detectors](https://arxiv.org/abs/2610.20876) to monitor high-dimensional data and combine evidence across data streams.
+- **Reinforcement learning and decision-making.** Learning to act and adapt through interaction with uncertain environments.
 
-- **Generative models and language-model inference.** I study the computational and statistical foundations of generation, including [transformers as in-context samplers](https://arxiv.org/abs/2609.08981) and [game-theoretic decoding](https://arxiv.org/abs/2610.05817) for language models. I examine how sampling and inference procedures use computation at test time.
+- **Statistical inference and information theory.** Estimation, testing, sequential inference, and the limits of learning from data.
 
-- **Certified robustness.** I develop optimization-based methods to certify neural-network robustness. Current work uses [sparse second-order cone relaxations](https://arxiv.org/abs/2610.16016) and [cascades of verifiers](https://arxiv.org/abs/2602.04236) to study the trade-off between certificate tightness and verification cost.
+- **Distributed and federated learning.** Learning and coordination across multiple agents, devices, and data sources.
 
-- **Information theory and entropy estimation.** I study minimax sample complexity for [Rényi entropy and min-entropy estimation](https://arxiv.org/abs/2607.16966). I examine how the entropy order and dependence between observations affect the amount of data needed for accurate estimation.
+- **Robust and trustworthy learning.** Reliability under uncertainty, distribution changes, and adversarial conditions.
 
-See my [publications]({{ '/publications/' | relative_url }}) for papers and preprints.
+See my [publications]({{ '/publications/' | relative_url }}) for current work.
 
 ## Prospective Students
 
