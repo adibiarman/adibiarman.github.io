@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Arman Adibi's homepage"
 title_separator          : "-"
 name                     : &name "Arman Adibi"
-description              : &description "personal description"
+description              : &description "Arman Adibi, Assistant Professor at Augusta University. Research in machine learning, optimization, reinforcement learning, and sequential change detection."
 url                      : https://adibiarman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "adibiarman/adibiarman.github.io"
@@ -86,7 +86,7 @@ author:
 
   
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=AikTZ-AAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : "aadibi@princeton.edu"
+  email            : "aadibi@augusta.edu"
   github           : "adibiarman"
   linkedin         : "arman-adibi-6b8b0698"
   twitter          : "AdibiArman23"
@@ -105,6 +105,8 @@ exclude:
   - .jekyll-assets-cache
   - .sass-cache
   - CHANGELOG
+  - CHANGELOG.md
+  - CONTRIBUTING.md
   - Capfile
   - Gemfile
   - Gruntfile.js
@@ -121,6 +123,30 @@ exclude:
   - package.json
   - tmp
   - vendor
+  # AcademicPages demonstrations; the actual academic content is in _pages.
+  - _posts
+  - _portfolio
+  - _publications
+  - _talks
+  - _teaching
+  - _pages/archive-layout-with-content.md
+  - _pages/category-archive.html
+  - _pages/collection-archive.html
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/page-archive.html
+  - _pages/portfolio.html
+  - _pages/tag-archive.html
+  - _pages/talkmap.html
+  - _pages/terms.md
+  - _pages/year-archive.html
+  - markdown_generator
+  - talkmap
+  - talkmap.ipynb
+  - talkmap.py
+  - files/paper1.pdf
+  - files/paper2.pdf
+  - files/paper3.pdf
 keep_files:
   - .git
   - .svn
@@ -230,7 +256,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York
 
 
 # Plugins
