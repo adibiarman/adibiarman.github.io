@@ -12,27 +12,21 @@ I am an [Assistant Professor](https://www.augusta.edu/faculty/directory/view.php
 
 ## Research
 
-My research focuses on the theoretical foundations of artificial intelligence with emphasis on scalable and reliable learning algorithms operating in nonstationary, distributed, and adversarial environments. A central objective is to develop methods that remain statistically efficient, computationally feasible, and robust under uncertainty, which motivates several interconnected research directions listed below.
+My research combines machine learning, optimization, and statistical inference to study learning and decision-making under uncertainty. I develop algorithms and analyze their sample complexity, convergence rates, and computational costs, with particular emphasis on dependent data, delayed information, distribution changes, and adversarial agents.
 
-* **Reinforcement Learning.** I analyze and design reinforcement learning algorithms under delayed, partial, or adversarial updates and derive non-asymptotic reliability guarantees for distributed systems.
+- **Reinforcement learning and distributed learning.** I study [stochastic approximation](https://proceedings.mlr.press/v238/adibi24a.html), multi-agent and federated reinforcement learning, and meta-learning. I analyze how Markovian data, delayed updates, communication constraints, and adversarial agents affect convergence and statistical efficiency.
 
-* **Distributed Learning.** I develop communication- and computation-efficient methods for large-scale collaborative learning under heterogeneous delays, partial participation, and Byzantine failures.
+- **Minimax and submodular optimization.** I develop algorithms for problems that combine continuous optimization, discrete decisions, and competing objectives. I study convergence and approximation guarantees for [minimax and submodular optimization](https://proceedings.mlr.press/v151/adibi22a.html), including settings with delays or adversarial data.
 
-* **Minimax Optimization.** I study convex and nonconvex minimax problems and construct algorithms with provable convergence guarantees in adversarial, asynchronous, and resource-constrained settings.
+- **Sequential inference and quickest change detection.** I design sequential detectors for distribution changes when likelihoods or normalizing constants are unavailable. Recent work uses [diffusion-integrated scores](https://arxiv.org/abs/2610.12200) and [mixtures of detectors](https://arxiv.org/abs/2610.20876) to monitor high-dimensional data and combine evidence across data streams.
 
-* **Change Detection under Uncertainty.** I develop sequential detection methods for high-dimensional and unnormalized distributions, including energy-based models, that adapt to nonstationarity with quantifiable false-alarm and detection-delay guarantees.
+- **Generative models and language-model inference.** I study the computational and statistical foundations of generation, including [transformers as in-context samplers](https://arxiv.org/abs/2609.08981) and [game-theoretic decoding](https://arxiv.org/abs/2610.05817) for language models. I examine how sampling and inference procedures use computation at test time.
 
-* **Submodular Optimization.** I design scalable algorithms for discrete decision-making under uncertainty with provable near-optimality based on submodular structure.
+- **Certified robustness.** I develop optimization-based methods to certify neural-network robustness. Current work uses [sparse second-order cone relaxations](https://arxiv.org/abs/2610.16016) and [cascades of verifiers](https://arxiv.org/abs/2602.04236) to study the trade-off between certificate tightness and verification cost.
 
-* **Meta-Learning.** I study adaptive learning procedures that transfer knowledge across related tasks, enabling sample-efficient generalization and reliable performance in nonstationary environments.
+- **Information theory and entropy estimation.** I study minimax sample complexity for [Rényi entropy and min-entropy estimation](https://arxiv.org/abs/2607.16966). I examine how the entropy order and dependence between observations affect the amount of data needed for accurate estimation.
 
-* **Decision-Making under Uncertainty.** I examine principled risk measures, distributionally robust optimization, and worst-case formulations to ensure dependable performance in safety-critical and shift-sensitive settings.
-
-* **Robustness of Deep Learning.** I investigate the statistical and algorithmic foundations of deep models subject to perturbations, memorization, and distribution shift, aiming for guarantees on generalization, stability, and reliability in high-dimensional regimes.
-
-* **Generative AI and Diffusion Models.** I study score-based diffusion processes, normalizing flows, and energy-based models with theory for sample efficiency, stability, and control of memorization, together with statistically grounded estimators based on score matching.
-
-* **Multimodal Machine Learning.** I develop representation learning and modality fusion methods for heterogeneous data including vision, audio, text, and temporal signals, with guarantees for alignment, robustness, and sequential decision-making across modalities.
+See my [publications]({{ '/publications/' | relative_url }}) for papers and preprints.
 
 ## Prospective Students
 
