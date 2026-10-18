@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the School of Computer and Cyber Sciences at Augusta University. Previously, I was a postdoctoral researcher in Electrical and Computer Engineering at Princeton University, working with [Prof. H. Vincent Poor](https://ece.princeton.edu/people/h-vincent-poor) and [Prof. Sanjeev Kulkarni](https://ece.princeton.edu/people/sanjeev-r-kulkarni). I earned my Ph.D. in Electrical and Systems Engineering from the University of Pennsylvania under [Prof. Hamed Hassani](https://www.seas.upenn.edu/~hassani/).
+I am an [Assistant Professor](https://www.augusta.edu/faculty/directory/view.php?id=AADIBI) in the School of Computer and Cyber Sciences at Augusta University. Previously, I was a postdoctoral researcher in Electrical and Computer Engineering at Princeton University, working with [Prof. H. Vincent Poor](https://ece.princeton.edu/people/h-vincent-poor) and [Prof. Sanjeev Kulkarni](https://ece.princeton.edu/people/sanjeev-r-kulkarni). I earned my Ph.D. in Electrical and Systems Engineering from the University of Pennsylvania under [Prof. Hamed Hassani](https://www.engineering.upenn.edu/~hassani/).
 
 ## Research
 
@@ -34,6 +34,6 @@ My research focuses on the theoretical foundations of artificial intelligence wi
 
 * **Multimodal Machine Learning.** I develop representation learning and modality fusion methods for heterogeneous data including vision, audio, text, and temporal signals, with guarantees for alignment, robustness, and sequential decision-making across modalities.
 
-## <span style="color:red">Open Positions</span>
+## Prospective Students
 
-I am currently recruiting highly motivated PhD students who have a strong mathematical background to join my research group. If you are interested in pursuing a PhD in a collaborative and dynamic environment, please send your CV and transcript to aadibi@augusta.edu with the subject line: "PhD Application – Augusta University."
+For questions about research opportunities and PhD supervision, please email [aadibi@augusta.edu](mailto:aadibi@augusta.edu) with your CV, transcript, and a brief description of your research interests. Further information about our research is available on the [Research Group]({{ '/research-group/' | relative_url }}) page.
