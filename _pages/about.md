@@ -29,5 +29,4 @@ My research interests lie at the intersection of machine learning, optimization,
 See my [publications]({{ '/publications/' | relative_url }}) for current work.
 
 ## Prospective Students
-
-For questions about research opportunities and PhD supervision, please email [aadibi@augusta.edu](mailto:aadibi@augusta.edu) with your CV, transcript, and a brief description of your research interests. Further information about our research is available on the [Research Group]({{ '/research-group/' | relative_url }}) page.
+I am not hiring this year. 
